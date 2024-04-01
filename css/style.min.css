@@ -2704,6 +2704,7 @@ input[type=radio]._active + label:before {
 .in10-timer__separator {
   color: #fff;
   font-size: 60px;
+  margin: 5px 0 0 0;
 }
 @media (max-width: 991.98px) {
   .in10-timer__separator {
